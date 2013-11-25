@@ -56,11 +56,12 @@
 			.reveal .slides section .doubleRate.fragment,
 			.reveal .slides section .normalRate.fragment,
 			.reveal .slides section .halfRate.fragment{
-				-webkit-transition: all 5s ease;
-				   -moz-transition: all 5s ease;
-				    -ms-transition: all 5s ease;
-				     -o-transition: all 5s ease;
-				        transition: all 5s ease;
+				opacity:1;
+				-webkit-transition: all 5s cubic-bezier(0,.42,.24,.22);
+				   -moz-transition: all 5s cubic-bezier(0,.42,.24,.22);
+				    -ms-transition: all 5s cubic-bezier(0,.42,.24,.22);
+				     -o-transition: all 5s cubic-bezier(0,.42,.24,.22);
+				        transition: all 5s cubic-bezier(0,.42,.24,.22);
 			}
 			.doubleDose.visible,
 			.normalDose.visible,
@@ -68,6 +69,7 @@
 			.doubleRate.visible,
 			.normalRate.visible,
 			.halfRate.visible{
+				opacity:.8;
 				stroke-dashoffset:0;
 				}
 
