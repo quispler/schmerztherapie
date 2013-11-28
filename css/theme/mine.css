@@ -43,14 +43,34 @@ body {
 }
 
 /*********************************************
-* Additional Fragments
+* Fragments
 **********************************************/
-.reveal .slides section .fragment.from-right {
-  position: absolute;
-  left:200%;
-}
-  .reveal .slides section .fragment.from-right.visible {
-    left:auto;
+.reveal .slides section .fragment.highlight-red.visible {
+    color: #ff2c2d;
+    text-shadow:1px 1px 5px #fff;
+    -webkit-transform: scale( 1.1 );
+       -moz-transform: scale( 1.1 );
+        -ms-transform: scale( 1.1 );
+         -o-transform: scale( 1.1 );
+            transform: scale( 1.1 );
+  }
+  .reveal .slides section .fragment.highlight-green.visible {
+    color: #17ff2e;
+    text-shadow:1px 1px 5px #fff;
+    -webkit-transform: scale( 1.1 );
+       -moz-transform: scale( 1.1 );
+        -ms-transform: scale( 1.1 );
+         -o-transform: scale( 1.1 );
+            transform: scale( 1.1 );
+  }
+  .reveal .slides section .fragment.highlight-blue.visible {
+    color: #1b91ff;
+    text-shadow:1px 1px 5px #fff;
+    -webkit-transform: scale( 1.1 );
+       -moz-transform: scale( 1.1 );
+        -ms-transform: scale( 1.1 );
+         -o-transform: scale( 1.1 );
+            transform: scale( 1.1 );
   }
 
 
