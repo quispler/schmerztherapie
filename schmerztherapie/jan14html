@@ -120,7 +120,7 @@
 
 				<!-- ----------------------- -->
 
-				<section id="schmerz-physiologischer-sinn" class="white" data-background="http://localhost:8000/images/tiger.jpg">
+				<section id="schmerz-physiologischer-sinn" class="white" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/tiger.jpg">
 					<h1>Schmerzen</h1>
 					<h3>Physiologischer Sinn</h3>
 					<ul style="float:right; text-align:right">
@@ -137,7 +137,7 @@
 
 				<!-- -------------------- -->
 
-				<section id="schmerz-verarbeitung" data-transition="zoom" data-background="http://localhost:8000/images/nerv.jpg" data-background-transition="slide" class="white">
+				<section id="schmerz-verarbeitung" data-transition="zoom" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/nerv.jpg" data-background-transition="slide" class="white">
 					<h2>Schmerz</h2>
 					<h3>Entstehung und Verarbeitung</h3>
 					<ol>
@@ -156,7 +156,7 @@
 				<!-- --------------------- -->
 				
 			<section>
-				<section id="lokal" data-background="http://localhost:8000/images/coolspray.png" data-background-transition="slide">
+				<section id="lokal" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/coolspray.png" data-background-transition="slide">
 					<h2>Lokal</h2>
 					<ul>
 						<li>Wärme</li>
@@ -172,7 +172,7 @@
 					</aside>
 				</section>
 
-				<section id="systemisch" data-background="http://localhost:8000/images/mohn.png" data-background-transition="slide">
+				<section id="systemisch" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/mohn.png" data-background-transition="slide">
 					<h2>Systemisch</h2>
 					<ul>
 						<li>Opiat <i class="fragment"> - &#956;- Rezeptor</i></li>
@@ -212,7 +212,7 @@
 
 
 			<section>
-				<section  id="reversible-blockade" data-background="http://localhost:8000/images/blockade.jpg">
+				<section  id="reversible-blockade" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/blockade.jpg">
 					<h1>Reversible Blockade des peripheren Nervs</h1>
 					
 					<aside class="notes">
@@ -248,7 +248,7 @@
 
 				<section>
 					<h2>Ropivacain*</h2>
-					<img src="http://localhost:8000/images/ropi2.jpg">
+					<img src="http://vortraege.schernthanner.at/schmerztherapie/images/ropi2.jpg">
 					<ul>
 						<li> (S)-N-(2,6-dimethylphenyl)- 1-propylpiperidine-2-carboxamide</li>
 						<li>Langwirksam</li>
@@ -260,14 +260,14 @@
 
 				<section>
 					<h2>Ropivacain* 2mg/ml</h2>
-					<img src="http://localhost:8000/images/ropi10.jpg">
+					<img src="http://vortraege.schernthanner.at/schmerztherapie/images/ropi10.jpg">
 					<li>Langsame Injektionsgeschwindigkeit</li>
 					<li>ständiger verbaler Kontakt mit dem Patienten</li>
 					<small>*Ropivacain = Ropinaest&copy; = Naropin&copy;</small>
 				</section>
 
 				<section id="plasmaspiegel" style="text-align:center">
-					<img src="http://localhost:8000/images/plasmaspiegel.jpg">
+					<img src="http://vortraege.schernthanner.at/schmerztherapie/images/plasmaspiegel.jpg">
 					<small>Braid/Scott, Toxikologie der Lokalanästhetika. Anaesthesist 2003; 52:1102–1123</small>
 				</section>
 
@@ -1424,7 +1424,7 @@
 
 
 				<section>
-					<section id="schulter" data-background="http://localhost:8000/images/schulter.jpg" data-background-size="cover" class="white">
+					<section id="schulter" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/schulter.jpg" data-background-size="cover" class="white">
 						<h1>Schulter chirurgie</h1>
 						<ul>
 							<li>Tendinitis calcarea</li>
@@ -1436,7 +1436,7 @@
 							VVV Eingriffe reichen von klein bis gross; Schmerzhaftigkeit nicht vorhersehbar
 						</aside>
 					</section>
-					<section id="interscalenaer" data-background="http://localhost:8000/images/regional.jpg" data-background-size="cover" style="text-align:right">
+					<section id="interscalenaer" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/regional.jpg" data-background-size="cover" style="text-align:right">
 						<h2>interscalenäre Blockade</h2>
 						<ul style="text-align:right">
 							<li>Gute Operationsbedingungen</li>
@@ -1449,7 +1449,7 @@
 								VVV für Tagesklinik ist gefordert, dass Patient auch um 3 00 nachblockiert wird -> auf Station ??
 							</aside>
 					</section>
-					<section id="schulter-komplikation" data-background="http://localhost:8000/images/komplikation.jpg" data-background-size="cover" class="white">
+					<section id="schulter-komplikation" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/komplikation.jpg" data-background-size="cover" class="white">
 						<h2>Nebenwirkungen und Komplikationen</h2>
 						<ul style="float:right;text-align:right">
 							<li class="fragment  highlight-green">Hypästhesie</li>
@@ -1481,14 +1481,14 @@
 
 
 				<section>
-					<section id="knie" data-background="http://localhost:8000/images/knie.jpg" data-background-size="cover" class="white">
+					<section id="knie" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/knie.jpg" data-background-size="cover" class="white">
 						<h1>Knieprothetik</h1>
 						<ul>
 							<li>Schlitten</li>
 							<li>Totales Knie</li>
 						</ul>
 					</section>
-					<section id="femoral" data-background="http://localhost:8000/images/femoral.jpg" data-background-size="cover">
+					<section id="femoral" data-background="http://vortraege.schernthanner.at/schmerztherapie/images/femoral.jpg" data-background-size="cover">
 						<h2>Femoralis Blockade</h2>
 						<ul style="text-align:right">
 							<li>Einfache Durchf&uuml;hrung</li>
@@ -1499,7 +1499,7 @@
 					</section>
 					<section id="ischiadikus">
 						<h2>Ischiadikusblockade</h2>
-						<img src="http://localhost:8000/images/ischiadikus.jpg" style="float:left">
+						<img src="http://vortraege.schernthanner.at/schmerztherapie/images/ischiadikus.jpg" style="float:left">
 						<ul style="text-align:right">
 							<li>gemischter Nerv</li>
 							<li>versorgt Knierückseite</li>
